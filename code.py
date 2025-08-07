@@ -1,0 +1,1 @@
+print('This is Example for Python print statetment')
